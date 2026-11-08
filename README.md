@@ -71,6 +71,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 npm run build
 ```
 
+###6 Admin 
+Mail-topq@gmail.com
+password-topq@123
+
 ---
 
 ## 📜 License
