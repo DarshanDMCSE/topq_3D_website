@@ -1,0 +1,6 @@
+{
+  "name": "TopQ Academy - Gen AI & 3D Mountain Experience",
+  "description": "Production-grade TopQ Academy with scroll-driven 3D parallax mountain background, animated climber path, and comprehensive Gen AI curriculum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
